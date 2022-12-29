@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-python dfaceRecognition.py
+python faceRecognition.py
 
  
 
